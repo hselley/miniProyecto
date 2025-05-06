@@ -14,6 +14,7 @@ def Fib(n=10):
 
 # print(Fib(5000))
 
+# Se calcula la aproximación al número aureo
 n=10000
 sucesion = Fib(n)
 print(sucesion[-1]/sucesion[-2])
